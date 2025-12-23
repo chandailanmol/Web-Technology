@@ -1,4 +1,4 @@
-# Krishanav
+# Anmol Chandail
 # 1. How to find DNS in your computer:
     a) On Windows,
     b) Using Command Prompt
